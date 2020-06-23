@@ -1,0 +1,15 @@
+REV01 Mon Jun  8 15:18:23 WIB 2020
+START Mon Jun  8 15:05:23 WIB 2020
+==================================
+
+Yang memberikan tanda-tangan digital (gnupg, detached, armor) atas berkas ini, dengan ini menyatakan bahwa,
+
+1) sedang mengikuti Ujian Akhir Semester Digital mata-ajar CSGE602055 Sistem Operasi semester Genap 2019/2020.
+
+2) melaksanakan ujian dengan memenuhi KETENTUAN "Kode Etik dan Perilaku Civitas Akademika UI (SK DGB-UI no 1/14)".
+
+3) jika melakukan pelanggaran atas KETENTUAN tersebut di atas, bersedia diproses sesuai KETENTUAN tersebut.
+
+
+PERHATIAN: Untuk informasi lebih lanjut, lihat (tunggu) PAS2.
+
