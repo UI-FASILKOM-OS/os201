@@ -1,0 +1,60 @@
+Script started on 2020-06-23 11:37:28+0700
+$ PS1="$ "
+$ echo $akunGitHub
+cbkadal
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(sleep 1;echo $TMP1-$akunGitHub-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$ PS1="\$(eval \$PSTAMP)"
+200623-113809-06bd-.P2/> make clean
+rm -f p00 p03 p01 p02 SharedMemoryFile.bin .dummy
+200623-113824-18df-.P2/> ./p00
+bash: ./p00: No such file or directory
+200623-113830-2d04-.P2/> make
+gcc -std=gnu11 -pthread    p00.c p00.h   -o p00
+gcc -std=gnu11 -pthread    p03.c p00.h   -o p03
+gcc -std=gnu11 -pthread    p01.c p00.h   -o p01
+gcc -std=gnu11 -pthread    p02.c p00.h   -o p02
+200623-113834-2c53-.P2/> ./p01
+akunGH1[START PID[15122] PPID[14906]]
+No "SharedMemoryFile.bin" file.
+200623-114008-1772-.P2/> ./p02
+akunGH2[START PID[15134] PPID[14906]]
+No "SharedMemoryFile.bin" file.
+200623-114014-422c-.P2/> ./p03
+akunGH3[START PID[15143] PPID[14906]]
+No "SharedMemoryFile.bin" file.
+200623-114020-b812-.P2/> ./p00
+akunGH0[START PID[15152] PPID[14906]]
+akunGH1[START PID[15153] PPID[15152]]
+akunGH2[START PID[15154] PPID[15152]]
+akunGH3[START PID[15155] PPID[15152]]
+akunGH3[progs[00] TIME[02] MUTEX[02] MMAP[OPEN] []]
+akunGH0[progs[01] TIME[04] MUTEX[02] MMAP[OPEN] [][]]
+akunGH2[progs[02] TIME[06] MUTEX[02] MMAP[OPEN] [][][]]
+akunGH1[progs[03] TIME[09] MUTEX[02] MMAP[OPEN] [akunGH3][][][]]
+akunGH3[progs[00] TIME[10] MUTEX[04] MMAP[OPEN] [akunGH3][][][]]
+akunGH3[progs[00] TIME[13] MUTEX[05] MMAP[OPEN] [akunGH3][akunGH0][akunGH2][]]
+akunGH3[BYEBYE =====  ===== =====]
+akunGH2[progs[02] TIME[15] MUTEX[04] MMAP[OPEN] [akunGH3][akunGH0][akunGH2][akunGH1]]
+akunGH0[progs[01] TIME[16] MUTEX[04] MMAP[OPEN] [akunGH3][akunGH0][akunGH2][akunGH1]]
+akunGH2[progs[02] TIME[17] MUTEX[05] MMAP[OPEN] [akunGH3][akunGH0][akunGH2][akunGH1]]
+akunGH2[BYEBYE =====  ===== =====]
+akunGH1[progs[03] TIME[18] MUTEX[04] MMAP[OPEN] [akunGH3][akunGH0][akunGH2][akunGH1]]
+akunGH0[progs[01] TIME[19] MUTEX[05] MMAP[OPEN] [akunGH3][akunGH0][akunGH2][akunGH1]]
+akunGH1[progs[03] TIME[20] MUTEX[05] MMAP[OPEN] [akunGH3][akunGH0][akunGH2][akunGH1]]
+akunGH1[BYEBYE =====  ===== =====]
+akunGH0[BYEBYE =====  ===== =====]
+200623-114043-f21a-.P2/> ./p01
+akunGH1[START PID[15174] PPID[14906]]
+CLOSED, BYE BYE ==== ====
+200623-114052-fe4d-.P2/> ./p02
+akunGH2[START PID[15184] PPID[14906]]
+CLOSED, BYE BYE ==== ====
+200623-114104-b9f9-.P2/> ./p03
+akunGH3[START PID[15197] PPID[14906]]
+CLOSED, BYE BYE ==== ====
+200623-114110-99d9-.P2/> exit
+exit
+
+Script done on 2020-06-23 11:41:13+0700
+

@@ -1,0 +1,13 @@
+# Tue Jun 23 11:39:46 WIB 2020
+#
+# Silakan melakukan COPAS (COpy and PASte).
+# Hanya saja, harap COPAS baris demi baris!
+# Silakan menggunakan sistem selain BADAK.
+# Hanya saja, anda harus mengerti cara setting sistem anda tersebut!
+#
+# Berikut, dua baris sebelum script (ganti "cbkadal" dengan akun GitHub anda):
+#
+export akunGitHub="cbkadal"
+#
+export PSTAMP="TMP1=\"\$(date +%y%m%d-%H%M%S)\"; TMP2=\"\$(sleep 1;echo \$TMP1-\$akunGitHub-\${PWD##*/}|sha1sum|cut -c1-4)\"; echo \"\$TMP1-\$TMP2-\${PWD##*/}/> \";";
+
