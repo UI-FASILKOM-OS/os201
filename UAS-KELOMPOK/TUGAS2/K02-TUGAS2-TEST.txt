@@ -1,0 +1,48 @@
+# REV01 Tue Jun 23 22:32:19 WIB 2020
+# START Tue Jun 23 11:39:32 WIB 2020
+#
+# Silakan melakukan COPAS (COpy and PASte).
+# Hanya saja, harap COPAS baris demi baris!
+# Silakan menggunakan sistem selain BADAK.
+# Hanya saja, anda harus mengerti cara setting sistem anda tersebut!
+#
+# Berikut, langkah langkah perekaman "script".
+#
+# PERHATIAN: 
+## upayakan untuk tidak menekan "backspace (crtl-H)" karena akan direkam oleh "script".
+## harap menunggu hingga muncul prompt "$ " (ada delay 1 detik).
+## ini contoh untuk program kelompok beranggota 4: p00, p01, p02, dan p03.
+#
+PS1="$ "
+#
+echo $akunGitHub
+#
+date
+#
+echo $PSTAMP
+#
+PS1="\$(eval \$PSTAMP)"
+#
+make clean
+#
+./p00
+#
+make
+#
+./p01
+#
+./p02
+#
+./p03
+#
+./p00
+#
+./p01
+#
+./p02
+#
+./p03
+#
+exit
+
+
