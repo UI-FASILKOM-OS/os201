@@ -1,0 +1,70 @@
+# REV03 Tue Jun 23 14:53:34 WIB 2020
+# REV02 Tue Jun 23 09:28:31 WIB 2020
+# START Mon Jun 22 15:42:22 WIB 2020
+====================================
+PERHATIKAN TANGGAL REVISI DI ATAS
+=================================
+
+1. Pelajari keluaran/script berkas K00-TUGAS2-SCRIPT.txt
+
+2. Setiap anggota mengerjakan satu berkas, mulai dari p00.c, p01.c, dst.
+
+3. Berkas p00.h dibagi (share) bersama.
+
+4. Agar tidak mulai dari NOL, telah disediakan rangka program/fungsi ala kadarnya.
+
+5. Jika diinginkan, silakan mengubah TOTAL isi program/fungsi yang telah disiapkan.
+
+6. Yang harus tetap:
+== a. berkas "p00.h" dibagi (share) bersama.
+== b. isi "struct usrinfo" dan "struct myshare" dalam p00.h tidak boleh diubah.
+== c. nama berkas untuk "ShareMemory" harus "SharedMemoryFile.bin".
+== d. nama berkas masing-masing anggota harus p00.c, p01.c, dst.
+
+7. Yang perlu diubah:
+== a. '#define  DELAY 5'; delay memperlambat program. DELAY  "p00"  > "p01". Yang lain bebas.
+== b. '#define  akunGitHub "akunGH0"'; harap mengisi dengan akunGitHub anda.
+
+8. Akses "ShareMemory" secara MUTEX.  Gunakan semafor "mutex".
+
+9. Setiap kali mengakses "mutex", "mutexctr++".
+
+10. Setiap kali mengakses "mutex", untuk "usrinfo" dari akunGitHub tersebut, "stamp++"
+
+11. CATATAN:
+== a. p00 yang memanggil p01, p02, dst.
+== b. saat init() (atau fungsi penggantinya), p00 menginisialisasi dan meng-OPEN ShareMemory.
+== c. sebelum exit, p00 meng-CLOSE ShareMemory.
+== d. p00 selalu exit paling akhir.
+== e. tanpa ShareMemory, p01, p02, dst. langsung exit.
+== f. kalau ShareMemory CLOSE, p01, p02, dst. langsung exit.
+== g. Setiap saat hanya boleh satu proses yang akses ShareMemory. Berhubung semafor "mutex" berada dalam ShareMemory, dengan sendirinya, tidak berlaku untuk fungsi "sem_wait()" dan "sem_port()".
+
+12. Info Tambahan
+#define AKUNSIZE     30    // Jumlah karakter dalam string "akinGitHub" (minus 1).
+#define CLOSED       127   // state==CLOSED; "ShareMemory" TIDAK boleh diakses.
+#define MAXPROGS     20    // Maximum program (maximum jumlah anggota).
+#define OPEN         255   // state==OPEN;   "ShareMemory" boleh diakses.
+#define SHAREMEM     "SharedMemoryFile.bin" // nama berkas "ShareMemory"
+typedef struct {
+    char  akun [AKUNSIZE]; // penempatan string "akunGitHub".
+    int   stamp;           // posisi "mutex"
+} usrinfo;
+
+typedef struct {
+    usrinfo progs[MAXPROGS+1];
+    int     entry;        // usrinfo yang kosong.
+    int     state;        // lihat OPEN/CLOSED.     
+    int     mutexctr;     // jumlah penggunaan semafor mutex.
+    sem_t   mutex;        // semafor mutex agar hanya satu yang akses ShareMemory pada sati saat.
+} myshare;
+
+void checkOpen(void);     // exit kalau CLOSE
+void display(int entry);  // tampilkan
+// akunGH0[progs[01] TIME[16] MUTEX[04] MMAP[OPEN] [akunGH3][akunGH0][akunGH2][akunGH1]]
+// akunGitHub entry  "mutexctr""stamp"   "OPEN/CLOSE" "entry akunGitHub dalam memory"
+int  getEntry(void);      // lowongan nomor entry dalam ShareMemory.
+int  init(void);          // init sistem;
+void myprint(char* str1, char* str2); // cetak str1 dan str2.
+void putInfo(char* akun, int entry);  // masukkan string "akunGitHub" ke dalam ShareMemory.
+
