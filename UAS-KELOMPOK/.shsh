@@ -9,9 +9,3 @@ for II in $(ls K??.txt) ; do
     done
 done
 
-git add -A
-git commit -m "OS201 rms46"
-git push
-exit
-
- 
