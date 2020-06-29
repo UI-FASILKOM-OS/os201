@@ -4,7 +4,7 @@ git pull
 for II in $(ls K??.txt) ; do
     sed -e 's///g' $II > tmptmp
     mv -f tmptmp $II
-    for JJ in $(cat II) ; do
+    for JJ in $(cat $II) ; do
         echo "$JJ"
     done
 done
