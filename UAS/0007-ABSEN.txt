@@ -1,6 +1,6 @@
 109119   BELUM
 abdulazis02   BELUM
-abdurrafiarief   BELUM
+abdurrafiarief   HADIR
 abhiprayatj   BELUM
 abifajri   BELUM
 aceyoga   BELUM
@@ -16,12 +16,12 @@ akhmadiponegoro   BELUM
 alfisyk   BELUM
 alkwrzm   HADIR
 AlphaRazra   BELUM
-alviadibby   BELUM
+alviadibby   HADIR
 amaliahanisa   BELUM
 amrisandha   BELUM
 andhikayusup   BELUM
 AndiALH   BELUM
-andrewtheodore   BELUM
+andrewtheodore   HADIR
 ariellariza   BELUM
 ariqbasyar   BELUM
 ashilaghassani   BELUM
@@ -96,7 +96,7 @@ michaelsusanto81   BELUM
 Miner239   BELUM
 mlhmg   BELUM
 MNatalnael   HADIR 
-mon23c   BELUM
+mon23c   HADIR
 mrasyid22   BELUM
 mrifqyz   BELUM
 Mufalando   BELUM
@@ -130,7 +130,7 @@ roygodsend23   BELUM
 rukamudrik   BELUM
 ryaasabsar   BELUM
 Salman-Ahmad-N   BELUM
-salsabiladnan   BELUM
+salsabiladnan   HADIR
 samratumaharani   BELUM
 samuelsamosir27   BELUM 
 shanniadm   BELUM
@@ -155,10 +155,10 @@ wulanmantiri   BELUM
 Xerdiosa   BELUM
 yasminadelia   BELUM
 yobelioe17   HADIR
-yogahmad   BELUM
+yogahmad   HADIR
 zackhowisely   BELUM
 zafirabinta   BELUM
 zafirr31   BELUM
 zakiysaputra   BELUM
-zxrsvy   BELUM
+zxrsvy   HADIR
 zzzzzczcnnnn   BELUM
