@@ -4,11 +4,14 @@ git pull
 for II in $(ls K??.txt) ; do
     sed -e 's///g' $II > tmptmp
     mv -f tmptmp $II
+    for JJ in $(cat II) ; do
+        echo "$JJ"
+    done
 done
+
 git add -A
 git commit -m "OS201 rms46"
 git push
 exit
-
 
  
