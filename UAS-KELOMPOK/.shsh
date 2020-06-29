@@ -1,0 +1,7 @@
+#!/bin/bash
+
+for II in $(ls K??.txt) ; do
+    sed -e 's///g' $II > tmptmp
+    mv -f tmptmp $II
+done
+ 
