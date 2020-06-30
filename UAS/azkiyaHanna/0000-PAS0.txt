@@ -1,9 +1,0 @@
-1) Berapa lama dibutuhkan untuk memahami dokumen ini?
-Sekitar 1 jam untuk memahami dan mengerti apa yang harus dilakukan untuk dokumen ini
-2) Apakah anda GSGS?
-Ya, saya mencari mengenai melihat private key, menghapus public key, dan command gpg
-3) Apakah anda tanya-sana/tanya-sini?
-Ya, saya memastikan langkah yang saya akan lakukan tepat dan bertanya mengenai hal-hal yang saya sudah lupa langkah-langkahnya
-4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan 
-   sebelumnya.
-Kebanyakan sudah dilakukan saat sebelum UTS saat dikelas atau tugas log. Hal yang baru adalah penggunaan command script

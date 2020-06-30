@@ -1,8 +1,0 @@
-1) Berapa lama dibutuhkan untuk memahami dokumen ini?
-  lebih dari satu jam.
-2) Apakah anda GSGS?
-  Ya, saya mencari di Google mengenai beberapa hal terkait gpg, baik menghapus key lama, melihat expire date, dsb.
-3) Apakah anda tanya-sana/tanya-sini?
-  Ya, saya bertanya kepada teman setelah mencari di google dan masih belum mengerti.
-4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan sebelumnya?
-  Ya, seperti merekam script dan melakukan import pubkey.
