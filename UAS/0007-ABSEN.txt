@@ -64,7 +64,7 @@ HaroldHS16   BELUM
 hasanahnur303   BELUM
 hedass   HADIR
 HelmiAlf   HADIR
-hnsmchl   BELUM
+hnsmchl   HADIR
 ichsandyrizki   BELUM
 IgoRamli   BELUM
 ihsanazizi14   BELUM
@@ -101,7 +101,7 @@ mrasyid22   BELUM
 mrifqyz   BELUM
 Mufalando   HADIR
 muhammadmichael   BELUM
-naufalauddin   BELUM
+naufalauddin   HADIR
 naufalhilmi12345   BELUM
 naufal-prakoso   HADIR
 naurakhansa   HADIR
@@ -138,10 +138,10 @@ ShintaFauziah   HADIR
 skycruiser8   HADIR
 stefansagala   BELUM
 stephenhandiar   HADIR
-SulthanZahran   BELUM
+SulthanZahran   HADIR
 syannelimarwan   HADIR
 taritrinatha   BELUM
-tasyashbr   BELUM
+tasyashbr   HADIR
 tesajps   BELUM
 ThatDecoff   BELUM
 thegalang   BELUM
