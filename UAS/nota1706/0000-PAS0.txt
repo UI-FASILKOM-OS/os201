@@ -1,8 +1,0 @@
-1) Berapa lama dibutuhkan untuk memahami dokumen ini?
-  Sekitar 1, 5 jam.
-2) Apakah anda GSGS?
-  Ya, saya mencari tahu tentang beberapa command line yang belum pernah saya gunakan dan mengingat kembali bagaimana import/export, encrypt dan decrypt public key.
-3) Apakah anda tanya-sana/tanya-sini?
-  Ya, saya bertanya kepada teman karena pada saat mengerjakan file 0001 saya kesulitan memahami dalam meng-input command di linux.
-4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan sebelumnya?
-  Tugas yang diberikan sudah pernah dilakukan sebelum UTS, tetapi saya perlu GSGS dan bertanya kepada teman karena saya lupa cara melakukan beberapa hal seperti membuat public key baru.
