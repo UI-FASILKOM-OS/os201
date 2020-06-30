@@ -1,8 +1,0 @@
-1) Berapa lama dibutuhkan untuk memahami dokumen ini?
-    1 jam sembari mengerjakan
-2) Apakah anda GSGS?
-    Ya, terutama untuk mencari hal yang mungkin tidak jelas bagi saya seperti detached (flag -sb daripada --detached-sig)
-3) Apakah anda tanya-sana/tanya-sini?
-    Ya, jika saya tidak dapat menemukan solusinya dengan GSGS, saya akan menanyakan teman apakah solusi yang mereka dapatkan
-4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan
-    Satu - satunya yang saya belum pernah lakukan adalah membuat detached signed file

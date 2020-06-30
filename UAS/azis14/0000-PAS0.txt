@@ -1,8 +1,0 @@
-1. Berapa lama dibutuhkan untuk memahami dokumen ini?
-  Saya menghabiskan waktu kurang lebih 1 jam untuk memahami dokumen ini dan 1,5 jam untuk mencoba mengerjakannya
-2. Apakah anda GSGS?
-  iya, saya mencari beberapa syntax scripting yang saya tidak hafal, seperti syntax untuk menghapus key karena saya pernah membuat key dengan tanpa expired time tetapi saya lupa passphrase-nya
-3. Apakah anda tanya-sana/tanya-sini?
-  iya, karena saya sempat mengalami error saat mencoba menghapus key dan ketika meng-encrypt file
-4. Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan sebelumnya.
-  sebagian besar sudah pernah saya lakukan di kelas OS ini, namun saya baru pertama kali menghapus key dari badak karena sebelumnya saya tidak pernah mengganti key yang saya buat pada Week03
