@@ -1,8 +1,0 @@
-1) Berapa lama dibutuhkan untuk memahami dokumen ini?
-  Sekitar 1 jam.
-2) Apakah anda GSGS?
-  Ya, saya mencari di Google mengenai command gpg.
-3) Apakah anda tanya-sana/tanya-sini?
-  Ya, saya bertanya kepada teman untuk memastikan langkah yang saya lakukan.
-4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan sebelumnya?
-  Ya, menggunakan command script untuk merekam command yang dijalankan di terminal.
