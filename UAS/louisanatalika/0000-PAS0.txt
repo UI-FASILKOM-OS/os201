@@ -1,8 +1,0 @@
-1) Berapa lama dibutuhkan untuk memahami dokumen ini?
-  Sekitar 1 jam untuk memahami tugas secara keseluruhan.
-2) Apakah anda GSGS?
-  Ya, saya mencari di Google mengenai encryption, decryption, membuat public key baru, dan menghapus public key lama 
-3) Apakah anda tanya-sana/tanya-sini?
-  Ya, saya bertanya kepada beberapa teman mengenai hal-hal yang saya cari di Google untuk memastikan langkah-langkah yang saya lakukan tepat
-4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan sebelumnya?
-  Tugas yang diberikan sudah pernah dilakukan sebelum UTS, tetapi saya perlu GSGS dan bertanya kepada teman karena saya lupa cara melakukan beberapa hal seperti membuat public key baru.
