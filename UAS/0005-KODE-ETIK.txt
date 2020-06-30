@@ -11,8 +11,3 @@ Yang memberikan tanda-tangan digital (gnupg, clearsign) atas berkas ini, dengan 
 
 3) jika melakukan pelanggaran atas KETENTUAN tersebut di atas, bersedia diproses sesuai KETENTUAN tersebut.
 =================================================================
-
-gpg2 --clearsign 0005-KODE-ETIK.txt
-
-0003-TUGAS.tar.bz2.asc
-cp /tmp/K41s/SIAP/mudrik/0003-TUGAS.tar.bz2.asc /fasilkom/mahasiswa/m/muhammad.mudrik/OS/PRIBADI/os201/UAS/0003-TUGAS.tar.bz2.asc
