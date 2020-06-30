@@ -1,8 +1,0 @@
-1) Berapa lama dibutuhkan untuk memahami dokumen ini?
-  Sekitar seharian untuk memahami semua flow pengerjaan
-2) Apakah anda GSGS?
-  Ya, saya menonton tutorial dari youtube tentang bagaimana melakukan encryption dan decryption. 
-3) Apakah anda tanya-sana/tanya-sini?
-  Ya, saya bertanya kepada beberapa teman terdakat saya, untuk mengetahui beberapa hal, seperti mengapa hasil cat saya bisa sangat berbeda dengan yang lain.
-4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan sebelumnya?
-  Hal - hal yang dilakukan sudah pernah dilakukan di demo OS sebelumnya seperti mengenerate public key, tetapi perlu mencari beberapa materi seperti encryption dan decryption untuk menyelesaikan tugas tersebut.
