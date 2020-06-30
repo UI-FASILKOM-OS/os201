@@ -1,4 +1,4 @@
-109119   BELUM
+109119   HADIR
 abdulazis02   BELUM
 abdurrafiarief   HADIR
 abhiprayatj   BELUM
@@ -11,7 +11,7 @@ adrielananta   BELUM
 adzshaf   HADIR
 agit-ui   HADIR
 ahmadirfaan1   HADIR
-ajiinisti   BELUM
+ajiinisti   HADIR
 akhmadiponegoro   HADIR
 alfisyk   HADIR
 alkwrzm   HADIR
@@ -87,8 +87,8 @@ Kyosena   BELUM
 leleonardo81   BELUM
 lepiku   HADIR
 louisanatalika   HADIR
-lubnasyifa9   BELUM
-luqman-maulana   BELUM
+lubnasyifa9   HADIR
+luqman-maulana   HADIR
 luthfiidrus   HADIR
 maisyrahmawati   HADIR 
 marcelvaldhano   HADIR
@@ -98,7 +98,7 @@ mlhmg   BELUM
 MNatalnael   HADIR 
 mon23c   HADIR
 mrasyid22   BELUM
-mrifqyz   BELUM
+mrifqyz   HADIR
 Mufalando   HADIR
 muhammadmichael   HADIR
 naufalauddin   HADIR
@@ -140,9 +140,9 @@ stefansagala   BELUM
 stephenhandiar   HADIR
 SulthanZahran   HADIR
 syannelimarwan   HADIR
-taritrinatha   BELUM
+taritrinatha   HADIR
 tasyashbr   HADIR
-tesajps   BELUM
+tesajps   HADIR
 ThatDecoff   HADIR
 thegalang   HADIR
 titusdirgantoro   HADIR
