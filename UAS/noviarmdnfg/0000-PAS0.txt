@@ -1,9 +1,0 @@
-
-1)Berapa lama dibutuhkan untuk memahami dokumen ini?
-  untuk memahami dokumen ini saya membutuhkan waktu kurang lebih 1 jam selain dari waktu mengerjakan.
-2) Apakah anda GSGS?
-  iya, untuk mencari tau atau mengingat kembali sesesuatu, seperti jika ada error atau mengingat bagaimana memodifikasi suatu dokumen.
-3) Apakah anda tanya-sana/tanya-sini?
-  iya jika saya mengalami error dan saya tidak mengerti dan tidak dapat menyelesaikannya saya biasanya bertanya kepada teman-teman.
-4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan sebelumnya.
-  melakukan encrypt dan decrypt suatu key.
