@@ -2,10 +2,12 @@
 
 git pull
 for II in $(ls K??.txt) ; do
-    sed -e 's///g' $II > tmptmp
+    sed -e 's///g' -e 's/ \+//g' -e '/^$/d' $II > tmptmp
     mv -f tmptmp $II
     for JJ in $(cat $II) ; do
         echo "$JJ $II"
     done
 done
-
+echo "====="
+sort K1?.txt 
+exit
