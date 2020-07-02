@@ -1,4 +1,6 @@
 #!/bin/bash
+# Mon Jun 29 16:46:23 WIB 2020 (rms46)
+# Thu Jul  2 10:24:31 WIB 2020 (rms46)
 
 git pull
 for II in $(ls K??.txt) ; do
