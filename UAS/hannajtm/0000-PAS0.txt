@@ -1,8 +1,0 @@
-1)Berapa lama dibutuhkan untuk memahami dokumen ini?
-  saya membutuhkan waktu kurang lebih 2-3 hari termasuk waktu pengerjaan yang lain karena salah penulisan dokumen 0000-mypub.txt sehingga harus menunggu pembaharuan status pada hari berikutnya.
-2) Apakah anda GSGS?
-  iya, untuk mencari tau atau mengingat kembali sesuatu yang sudah dipelajari, seperti jika ada error atau mengingat bagaimana memodifikasi suatu dokumen.
-3) Apakah anda tanya-sana/tanya-sini?
-  iya, apabila saya mengalami error, saya tidak mengerti, dan tidak dapat menyelesaikannya saya biasanya bertanya kepada teman-teman.
-4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan sebelumnya.
-  melakukan encrypt dan decrypt suatu key.
