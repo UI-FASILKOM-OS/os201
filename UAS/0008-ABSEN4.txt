@@ -17,7 +17,7 @@ chelmel18 HADIR
 codefire53 HADIR
 darklordace HADIR
 egiffari HADIR
-finishal BELUM
+finishal HADIR
 GibranBrahmanta HADIR
 gibranharahap HADIR
 glendaesutanto BELUM
@@ -31,7 +31,7 @@ ihsanazizi14 HADIR
 iqrar99 HADIR
 jacobstmrg BELUM
 JahnsMichael BELUM
-keziasulami BELUM
+keziasulami HADIR
 lepiku HADIR
 louisanatalika HADIR
 luthfiidrus HADIR
@@ -59,11 +59,11 @@ shanniadm HADIR
 ShintaFauziah HADIR
 skycruiser8 HADIR
 stephenhandiar HADIR
-SulthanZahran BELUM
+SulthanZahran HADIR
 syannelimarwan HADIR
 tasyashbr HADIR
-ThatDecoff BELUM
-thegalang BELUM
+ThatDecoff HADIR
+thegalang HADIR
 titusdirgantoro HADIR
 tolhassianipar HADIR
 wahprima BELUM
