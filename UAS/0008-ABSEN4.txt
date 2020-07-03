@@ -40,13 +40,8 @@ michaelsusanto81 BELUM
 mon23c HADIR
 naufalhilmi12345 HADIR
 naufal-prakoso HADIR
-<<<<<<< HEAD
-naurakhansa BELUM
-nota1706 HADIR
-=======
 naurakhansa HADIR
-nota1706 BELUM
->>>>>>> 8b90f9de88dfc4e04a7dc48485d9a34c1be48425
+nota1706 HADIR
 noviarmndfg BELUM
 nvanonim BELUM
 phazeblaze BELUM
