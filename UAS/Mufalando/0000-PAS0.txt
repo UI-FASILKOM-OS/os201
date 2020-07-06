@@ -1,8 +1,0 @@
-+1) Berapa lama dibutuhkan untuk memahami dokumen ini?
-Untuk memahami dokumen ini saya membutuhkan waktu kira-kira satu jam. Sebagian besar dari waktu itu digunakan untuk mengingat kembali mengenai konsep public key dan private key yang sebelumnya sudah diajarkan
-+2) Apakah anda GSGS?
-Ya, saya melakukan GSGS, sebagai contoh untuk mempelajari soal makefile, saya membaca di https://www.gnu.org/software/make/manual/make.html#Simple-Makefile. Selain itu, saya juga melakukan gsgs untuk beberapa perintah command script yang belum begitu saya pahami. 
-+3) Apakah anda tanya-sana/tanya-sini?
-Ya, saya melakukan tanya-sana/tanya-sini untuk memastikan pemahaman saya mengenai script, terutama ketika gsgs dirasa tidak cukup
-+4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan 
-Hal yang pertama kali saya lakukan adalah membuat kompresi tar dengan bzip2, karena memang tar tidak pernah ada pada windows.
