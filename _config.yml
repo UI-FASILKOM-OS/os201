@@ -1,5 +1,5 @@
 theme: jekyll-theme-midnight
-description: (V027-20200608) This is OS201.
+description: (V028-20200706) This is OS201.
 sitemap: true
 plugins:
   - jekyll-sitemap
