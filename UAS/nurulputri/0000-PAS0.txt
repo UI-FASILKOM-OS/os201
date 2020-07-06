@@ -1,8 +1,0 @@
-1) Berapa lama dibutuhkan untuk memahami dokumen ini?
-Saya memerlukan waktu sekitar 1 jam untuk memahami dokumen ini.
-2) Apakah anda GSGS?
-Iya.
-3) Apakah anda tanya-sana/tanya-sini?
-Iya.
-4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan sebelumnya.
-Melakukan enkripsi dan dekripsi menggunakan GNUPG.
