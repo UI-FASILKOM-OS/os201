@@ -1,9 +1,0 @@
-1) Berapa lama dibutuhkan untuk memahami dokumen ini?
-    Sekitar 60-90 menit untuk memahami secara keseluruhan (dipahami sembari dikerjakan)
-2) Apakah anda GSGS?
-    Ya, biasanya untuk mencari solusi dari masalah-masalah yang muncul
-3) Apakah anda tanya-sana/tanya-sini?
-    Ya, saya cukup sering bertanya kepada teman-teman jika terbentur masalah
-    yang mungkin solusi GSGSnya sulit ditemukan/dipahami.
-4) Sebutkan apakah ada hal yang "betul betul baru"/"belum pernah" dilakukan
-    Sejauh ini, hal-hal pada dokumen PAS0 sudah pernah saya coba sebelumnya di kelas OS sendiri.
