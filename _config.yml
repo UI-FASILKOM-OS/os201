@@ -1,5 +1,7 @@
-theme: jekyll-theme-midnight
-description: (V028-20200706) This is OS201.
+theme: jekyll-theme-hacker
+description: (V029-20200810) This is OS201.<br>
+      This site is managed by VauLSMorg (vlsm.org) since 2020.
+google_analytics: UA-89852122-6
 sitemap: true
 plugins:
   - jekyll-sitemap
